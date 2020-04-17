@@ -30,6 +30,7 @@
 		MEDIA="Images/AnimationObject/vwCar05"
 		NAME="VW View 5" >
 	</IMAGE>
+	<IMAGE
 		MEDIA="Images/AnimationObject/vwCar06"
 		NAME="VW View 6" >
 	</IMAGE>
